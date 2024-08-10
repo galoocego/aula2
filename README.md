@@ -1,1 +1,1 @@
-# aula2
+# Aula de git para os alunos da Turma B
